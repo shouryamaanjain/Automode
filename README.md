@@ -1,4 +1,4 @@
-# BrowseGPT
+# Automode
 
 [Automode](https://automode.systems) is a chat interface that allows you to search the web and get answers to your questions. It is built with [Vercel AI SDK](https://www.npmjs.com/package/ai) and [Emplode](https://www.emplode.com/).
 
